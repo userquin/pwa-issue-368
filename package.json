@@ -23,6 +23,7 @@
   "devDependencies": {
     "typescript": "^4.6.4",
     "vite": "^3.0.7",
+    "workbox-precaching": "^6.5.4",
     "vite-plugin-pwa": "^0.12.6"
   }
 }
