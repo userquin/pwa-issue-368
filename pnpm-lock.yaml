@@ -2919,7 +2919,7 @@ packages:
     dev: true
 
   file:vite-plugin-pwa-0.12.6.tgz_vite@3.1.0:
-    resolution: {integrity: sha512-nCCg5zrQ+ekjg+iSjVW6EITUBMiSn/lcUH2q6g3yINOL5UUhiUPCI0H1yOaVEi9jSLP/Sg5LxLRwhEGwxgmGjg==, tarball: file:vite-plugin-pwa-0.12.6.tgz}
+    resolution: {integrity: sha512-muJOSe+JnfOe9nlqixONvdLTzOdMLrH1Kxycevve+bDntsZCANxszEbw/kUtzFJ8QDT9We38ZygqlWwQ824Oqg==, tarball: file:vite-plugin-pwa-0.12.6.tgz}
     id: file:vite-plugin-pwa-0.12.6.tgz
     name: vite-plugin-pwa
     version: 0.12.6
